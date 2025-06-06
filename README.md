@@ -37,7 +37,7 @@ Guntanks! is a simplified clone of popular turn based tank games like Worms and 
 ### Delay
 * Every second you take during your turn adds to your delay which determines when your next turn will happen.
 * Firing shots also adds to your delay.
-* Shot 1 adds 750, Shot 2 adds 900, and your Special Shot (SS) will add 1330 to your delay.
+* Shot 1 adds 750, Shot 2 adds 900, and your Special Shot (SS) will add 1300 to your delay.
 * The current turn order and delay for each player is displayed in the Delay Queue.
 
 ### Shells
